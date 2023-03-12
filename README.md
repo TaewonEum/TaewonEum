@@ -12,7 +12,10 @@
   
 <h3 align="center"> Nice to meet you!
   
-<h3 align="center"> 📫 
+<h3 align="center"> 📫 Email 📫
+
+<h3 align="center"> djaxodnjs7@naver.com
+  
   
 
 <h3 align="center">🛠 My Tech 🛠</h3>
