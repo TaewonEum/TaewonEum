@@ -1,7 +1,7 @@
 </p>  
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=150&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=50&desc=Taewon's%20GitHub%20Profile!&descAlignY=75&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=50&desc=Taewon's%20GitHub%20Profile!&descAlignY=75&descAlign=62)
   
 </p>  
 <br>
