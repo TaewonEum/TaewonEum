@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20!&fontSize=90)
-
-I'm Studying ML&DL 
-
 #  ♥My tech Stack♥
 
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor={3776AB}"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor={EE4C2C}"/>
