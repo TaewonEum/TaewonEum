@@ -2,6 +2,9 @@
   
 <h3 align="center"> I'm TaeWon Park, Data-scientist😄
   
+</p>  
+<br>
+  
 
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor={3776AB}"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor={EE4C2C}"/>
 <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor={276DC3}"/>
