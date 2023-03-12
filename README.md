@@ -7,7 +7,7 @@
 <br>
 
   
-<h3 align="center"> I'm TaeWon Eum, Data-scientist In Korea.
+<h3 align="center"> 📣 I'm TaeWon Eum, Data-scientist In Korea.
   
 <h3 align="center"> Nice to meet you!
   
