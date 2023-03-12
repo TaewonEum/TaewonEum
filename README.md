@@ -21,3 +21,6 @@
 <img src="https://img.shields.io/badge/MySQL-skyblue?style=flat&logo=MySQL&logoColor={4479A1}"/>
 <img src="https://img.shields.io/badge/Google Colab-black?style=flat&logo=Google Colab&logoColor="/>
 <img src="https://img.shields.io/badge/Jupyter-black?style=flat&logo=Jupyter&logoColor={F37626}"/>
+
+  
+<h3 align="center"> 	😘 About Me 	😘 </h3>
