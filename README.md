@@ -23,7 +23,7 @@
   
 
 <h3 align="center">🛠 My Tech 🛠</h3>
-<br/><br/>
+<br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor={3776AB}"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor={EE4C2C}"/>
 <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor={276DC3}"/>
@@ -34,11 +34,11 @@
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>&nbsp 
   
   
+  <br/>
   
   
   
-  
- <h3 align="center"> 	💪 Stack Stats	💪 </h3><br/><br/>
+ <h3 align="center"> 	💪 Stack Stats	💪 </h3><br/>
 
 ![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true) 
 [![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eumtaewon)    
