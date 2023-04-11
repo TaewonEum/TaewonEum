@@ -88,6 +88,7 @@
 -프로젝트 기간: 2021.09~2022.02 (6개월)
 -프로젝트 기관: 한국문화정보원
 -역할: 텍스트 데이터 전처리 및 시각화, 감성분석, 연관어 분석, 최종 보고서 작성
+-LINK: [LINK1](https://github.com/eumtaewon/sentimental-analysis-in-R)
  ```  
     
 ```
