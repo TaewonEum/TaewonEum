@@ -32,8 +32,8 @@
 <p align="center">
 <a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
   
-  ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true)
+[![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewonID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eumtaewon)
   
   
 <h3 align="center"> 	📄  My Career and Projects I Have Done  📄  </h3>
