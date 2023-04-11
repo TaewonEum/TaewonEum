@@ -80,7 +80,7 @@
 -프로젝트 기관: NIA
 -역할: 데이터 수집 및 전처리, 데이터 분석 및 시각화
  ```
-[서울시 스마트쉘터 최적입지 분석📍](https://github.com/eumtaewon/sentimental-analysis-in-R)
+[서울시 스마트쉘터 최적입지 분석📍](https://github.com/eumtaewon/Smart-shelter-optimal-loaction-selection)
 <br/> 
 
   ```
