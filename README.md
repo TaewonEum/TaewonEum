@@ -45,7 +45,6 @@
 <p align="center">
 <a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
 
-[![N|LINK](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/eumtaewon/sentimental-analysis-in-R)
   
  <br/>
 
@@ -72,6 +71,8 @@
 -프로젝트 기관: 가천대학교 사회과학대학
 -역할: 데이터 수집 및 전처리, 데이터 분석 및 시각화, 최종 발표
  ```
+<br/><br/>
+  
   
   ```
 2. 서울시 스마트쉘터 최적입지 분석📍
@@ -81,16 +82,19 @@
 -프로젝트 기관: NIA
 -역할: 데이터 수집 및 전처리, 데이터 분석 및 시각화
  ```
-  
+
+<br/> 
+
   ```
 3. 한류 빅데이터 분석 📰
 -주제: "5개년 외신데이터로 보는 글로벌 한류 동향 파악"
 -프로젝트 기간: 2021.09~2022.02 (6개월)
 -프로젝트 기관: 한국문화정보원
--역할: 텍스트 데이터 전처리 및 시각화, 감성분석, 연관어 분석, 최종 보고서 작성
--LINK: 
+-역할: 텍스트 데이터 전처리 및 시각화, 감성분석, 연관어 분석, 최종 보고서 작성 
  ```  
-    
+ 
+[한류 빅데이터 분석 보러가기](https://github.com/eumtaewon/sentimental-analysis-in-R)   
+
 ```
 4. 자연어 기반 인공지능 산업분류 공모전 💻
 -주제: "자연어 기반의 통계데이터를 인공지능으로 자동 분류하는 기계학습 모델 발굴로 통계 데이터 활용 저변 확대"
@@ -98,6 +102,7 @@
 -프로젝트 기관:통계데이터센터
 -역할: 데이터 전처리 및 증강, 딥러닝 모델 구축, 모델 평가 및 예측
  ```
+<br/>
  
 ```
 5.산업통상자원부 태양광 발전량 데이터 Pilot 분석 ☀️
@@ -106,6 +111,8 @@
 -프로젝트 기관: BAKOREA
 -역할: 데이터 수집 및 전처리, 단변량 시계열 분석을 통한 발전량 예측, 최종 보고서 작성
  ```  
+<br/>  
+
    
 ```
 6. 인공지능 학습용 데이터 구축 사업 🐝
