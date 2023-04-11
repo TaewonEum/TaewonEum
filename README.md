@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
 
-  
+[![N|LINK](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/eumtaewon/sentimental-analysis-in-R)
   
  <br/>
 
@@ -88,7 +88,7 @@
 -프로젝트 기간: 2021.09~2022.02 (6개월)
 -프로젝트 기관: 한국문화정보원
 -역할: 텍스트 데이터 전처리 및 시각화, 감성분석, 연관어 분석, 최종 보고서 작성
--LINK: [LINK1](https://github.com/eumtaewon/sentimental-analysis-in-R)
+-LINK: 
  ```  
     
 ```
