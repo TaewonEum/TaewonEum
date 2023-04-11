@@ -28,8 +28,10 @@
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>&nbsp 
 
   ![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true)
+ 
   
-  ![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인eumtaewon)
+  
+  
 <h3 align="center"> 	😘 SNS	😘 </h3>
 <p align="center">
 <a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
