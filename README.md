@@ -8,13 +8,13 @@
 
   
 <h3 align="center"> 📣 I'm TaeWon Eum, Data-scientist In Korea.
-  
+<br/> <br/> 
 <h3 align="center"> Nice to meet you!
-  
+<br/> <br/>
 <h3 align="center"> 📫 Email 📫
-
+<br/><br/>
 <h3 align="center"> djaxodnjs7@naver.com
-  
+<br/><br/>  
   
   
   
@@ -23,6 +23,7 @@
   
 
 <h3 align="center">🛠 My Tech 🛠</h3>
+<br/><br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor={3776AB}"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor={EE4C2C}"/>
 <img src="https://img.shields.io/badge/R-blue?style=flat&logo=R&logoColor={276DC3}"/>
@@ -37,11 +38,10 @@
   
   
   
- <h3 align="center"> 	💪 Stack Stats	💪 </h3>
+ <h3 align="center"> 	💪 Stack Stats	💪 </h3><br/><br/>
 
-  ![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true) 
-[![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eumtaewon)  
-  
+![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true) 
+[![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eumtaewon)    
   
   
   
@@ -54,7 +54,7 @@
   
   
   
-<h3 align="center"> 	📄  My Career and Projects I Have Done  📄  </h3>
+<h3 align="center"> 	📄  My Career and Projects I Have Done  📄  </h3><br/><br/>
 
   
 1. 가천대학교 조사연구 경진대회 우수상
