@@ -45,7 +45,7 @@
 <h3 align="center"> 	😘 About Me	😘 </h3>
 <p align="center">
 <a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
-<a href="file:///C:/Users/user/Desktop/%EC%97%84%ED%83%9C%EC%9B%90_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=GitHub Pages&logoColor=white&link=https://parko0914.github.io/"/></a>&nbsp
+
   
  <br/>
 
