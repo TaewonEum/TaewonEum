@@ -60,9 +60,8 @@
   
 -2022.06~현재:Nemo Partners BA Data Scientist 👨‍🔬
  ```
-  
- 
+
 <h3 align="center"> 	📄  Portpolio  📄  </h3>
 
-<h3 align="center"><a href="[https://github.com/parko0914/parko0914/files/9893586/_.pdf](https://github.com/eumtaewon/eumtaewon/files/12448056/portfolio.pdf)"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/></a>&nbsp
+<h3 align="center"><a href="https://github.com/eumtaewon/eumtaewon/files/12448056/portfolio.pdf"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/></a>&nbsp
 
