@@ -64,4 +64,4 @@
  
 <h3 align="center"> 	📄  Portpolio  📄  </h3>
 
-<h3 align="center"> <a href="file:///C:/Users/user/Desktop/portfolio.pdf"><img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/>
+<h3 align="center"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/>
