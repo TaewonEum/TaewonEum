@@ -65,3 +65,4 @@
 <h3 align="center"> 	📄  Portpolio  📄  </h3>
 
 <h3 align="center"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/></a>&nbsp
+[portfolio.pdf](https://github.com/eumtaewon/eumtaewon/files/12448056/portfolio.pdf)
