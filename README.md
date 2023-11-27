@@ -35,7 +35,7 @@
  <h3 align="center"> 	📊 Stats	📊 </h3><br/>
 
 ![eumtaewon's github stats](https://github-readme-stats.vercel.app/api?username=eumtaewon&show_icons=true) 
-[![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/eumtaewon)    
+[![eumtaewon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eumtaewon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/TaewonEum)    
   
   
   
