@@ -63,10 +63,9 @@
 -2022.06~현재:Nemo Partners BA Data Scientist 👨‍🔬
  ```
 
-<h3 align="center"> 	📄  Portpolio  📄  </h3>
+<h3 align="center"> 	📄  Portpolio & Dockerhub 📄  </h3>
 
 <h3 align="center"><a href="https://github.com/eumtaewon/eumtaewon/files/12448056/portfolio.pdf"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/></a>&nbsp
 
-<h3 align="center"> 	  Docker Hub    </h3>
-
-<h3 align="center"><a href="https://hub.docker.com/repositories/eumty"><img src="https://img.shields.io/badge/Docker-#2496ED?style=flat-square&logo=Instagram&logoColor=white&link=https://hub.docker.com/repositories/eumty"/></a>&nbsp
+<p align="center">
+<a href="https://www.instagram.com/omtae_sk1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/omage_sk1/"/></a>&nbsp
