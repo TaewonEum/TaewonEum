@@ -69,4 +69,4 @@
 
 <h3 align="center"> 	  Docker Hub    </h3>
 
-<h3 align="center"><a href="https://hub.docker.com/repositories/eumty" target="_blank"><img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<h3 align="center"><a href="https://hub.docker.com/repositories/eumty" target="_blank"><img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=Docker&logoColor=blue">
