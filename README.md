@@ -60,7 +60,7 @@
   
 -2021.09~2022.02: 한국문화정보원 빅데이터 분석 인턴 👨‍💼
   
--2022.06~현재:Nemo Partners BA Data Scientist 👨‍🔬
+-2022.06~현재: BA Korea Data Scientist 👨‍🔬
  ```
 
 <h3 align="center"> 	📄  Portpolio  📄  </h3>
