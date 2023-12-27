@@ -81,6 +81,7 @@
 
 주요 수행 프로젝트
 1. 지능형 양봉 데이터 구축 사업
+프로젝트 URL: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71488
 기간: 2022.06~2023.03 (10개월)
 성과
 1. 국내 최조 양봉 관련 AI 학습 데이터 구축
