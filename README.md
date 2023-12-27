@@ -81,7 +81,7 @@
 
 주요 수행 프로젝트
 1. 지능형 양봉 데이터 구축 사업
-프로젝트 URL: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71488
+
 기간: 2022.06~2023.03 (10개월)
 성과
 1. 국내 최조 양봉 관련 AI 학습 데이터 구축
@@ -96,7 +96,7 @@
 3. 딥러닝 모델을 활용한 식용 곤충 정상/비정상 객체 탐지 모델 구축
 
 3. 법무부 외국인 계절 근로자 수요 예측 프로젝트
-프로젝트 URL: https://github.com/TaewonEum/Prediction-of-Foreign-Labor-Demand
+
 기간: 2023.09~2023.12 (4개월)
 성과
 1. 법무부 내부 데이터 활용 외국인 계절 근로자 수요 예측 분석 데이터 셋 구축
