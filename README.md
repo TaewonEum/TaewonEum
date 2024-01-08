@@ -107,5 +107,3 @@
 
 <h3 align="center"> 	📄  Portpolio  📄  </h3>
 
-#<h3 align="center"><a href="https://github.com/TaewonEum/TaewonEum/files/13810695/_._20231221.pdf"> <img src="https://img.shields.io/badge/Portpolio-black?style=flat&logoColor="/></a>&nbsp
-
